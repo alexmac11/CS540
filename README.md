@@ -1,5 +1,2 @@
-# CS540
+# CS540 Operating Systems TR 11:00 AM
 Class assignments
-
-** How to work :**
-Please navigate through the branches to find the assignment file needed for grading.
