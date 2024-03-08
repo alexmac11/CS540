@@ -4,7 +4,7 @@
 This program simulates a basic lottery scheduling algorithm. Processes are assigned lottery tickets, and the scheduler randomly selects a ticket to determine the next process to run.
 
 ## Requirements
-- Python 3.x
+- Python
 
 ## Functionality
 - `Process` class: Represents a process with a unique identifier and lottery tickets.
